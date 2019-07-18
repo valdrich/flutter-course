@@ -1,6 +1,6 @@
 # people_count
 
-A new Flutter project.
+A Flutter project to start working with this technology.
 
 ## Getting Started
 
